@@ -69,4 +69,3 @@ The script leverages the AWS CLI commands to query specific services based on th
 2. Parse command-line arguments for the service and region.
 3. Execute the appropriate AWS CLI command to list the resources for the specified service.
 4. Output the results in a user-friendly format.
-
